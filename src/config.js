@@ -1,4 +1,4 @@
-const CLIENT_ID = process.env.VUE_APP_CLIENT_ID;
+const CLIENT_ID = '854728979671941140';
 const BOT_API = process.env.VUE_APP_BOT_API;
 
 export default {
